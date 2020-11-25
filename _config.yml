@@ -11,7 +11,7 @@ url: "https://ezgiberi.av.tr/" # the base hostname & protocol for your site, e.g
 navigation: # Navigation links
   - {name: 'Hakkında', link: '/hakkinda/'}
   - {name: 'Hizmetler', link: '/hizmetler/'}
-  - {name: 'Makaleler', link: '/makaleler/'}
+  - {name: 'Blog', link: '#'}
   - {name: 'İletişim', link: '/iletisim/'}
 
 tagline: >
