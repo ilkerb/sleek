@@ -19,5 +19,3 @@ permalink: /iletisim/
 ### İletişim Formu
 
 {% include form.html %}
-
-{% include modal.html %}

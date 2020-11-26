@@ -14,7 +14,6 @@ A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SE
 * Minimal, responsive and speed performance optimized
 * SEO friendly, with help of [Jekyll SEO Plugin](https://github.com/jekyll/jekyll-seo-tag)
 * Easy [Google Tag Manager](https://tagmanager.google.com/) Integration
-* Support for [Disqus](https://disqus.com/) comments
 * Form submissions with [Formspree](#formspree)
 
 [Preview Demo](https://janczizikow.github.io/sleek/)
@@ -154,15 +153,6 @@ Replace `GTM-XXXXXXX` with your Google Tag Manager Container ID.
 **Note** by default GTM tracking snippet will be also included in development environment.
 
 Google Tag Manager was chosen for this project as it's more flexible than Google Analytics, and it can be used to add GA to your site.
-
-### Disqus
-
-To enable Disqus comments, add your [Disqus shortname](https://help.disqus.com/customer/portal/articles/466208) to `_config.yml`:
-
-```yaml
-disqus:
-  shortname: my_disqus_shortname
-```
 
 ### Formspree
 
